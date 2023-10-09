@@ -5,7 +5,7 @@
 ## My name is Víctor and my nickname is "Baumilha"!**
 
 - 🌱 Atualmente estou aprendendo Lógica de Programação, JS, HTML e um pouco sobre viver
-- 👯 Estou procurando colaborar em projetos que eu consiga ajudar //kk
+- 👯 Estou procurando colaborar em projetos que eu consiga ajudar 
 - 💬 Pergunte-me sobre Filmes/Animes/Séries/Desenhos/HQ e esses assuntos ai kk
 - 📫 Como entrar em contato comigo: instagram -> @victor_kapakapa
 - ⚡ Curiosidade: Eu estou no 1º ano do ensino médio 

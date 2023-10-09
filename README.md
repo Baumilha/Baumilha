@@ -3,7 +3,7 @@
 ## Hello, Devs!!
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Víctor and my nickname is "Baumilha"!**
-- 🔭 Atualmente estou trabalhando em procurar um emprego facil pra iniciante //lol
+
 - 🌱 Atualmente estou aprendendo Lógica de Programação, JS, HTML e um pouco sobre viver
 - 👯 Estou procurando colaborar em projetos que eu consiga ajudar //kk
 - 💬 Pergunte-me sobre Filmes/Animes/Séries/Desenhos/HQ e esses assuntos ai kk

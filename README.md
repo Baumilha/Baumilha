@@ -1,18 +1,24 @@
-## Bem vindo ao meu perfil GitHub 👋
-## Olá, me chamo Víctor e meu apelido é "Baumilha"!
-## 👋 Hello! Welcome to my Github profile.
-## My name is Víctor and my nickname is "Baumilha"!
+# Olá, eu sou o Víctor 👋
 
-- 🌱 Atualmente estou aprendendo Lógica de Programação, JS, HTML e um pouco sobre viver
-- 👯 Estou procurando colaborar em projetos que eu consiga ajudar 
-- 💬 Pergunte-me sobre Filmes/Animes/Séries/Desenhos/HQ e esses assuntos ai kk
-- 📫 Como entrar em contato comigo: instagram -> @victor_kapakapa
-- ⚡ Curiosidade: Eu estou no 1º ano do ensino médio 
+Sou um estudante de 15 anos que gosta de aprender coisas novas e de socializar. Sou engraçado e inteligente (eu acho 😅). Estou programando com HTML, JS, CSS e C por enquanto.
 
-<div>
-<a href="https://instagram.com/victor_kapakapa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baumilha&layout=compact&langs_count=7&theme=dracula"/>
+## O que eu estou fazendo 🚀
 
-</div>
+- Aprendendo sobre desenvolvimento web na Alura
+- Criando alguns projetos pessoais para praticar
+- Participando de comunidades online de programação
+
+## As minhas habilidades 💻
+
+- HTML
+- CSS
+- JavaScript
+- C
+
+## Como me encontrar 📫
+
+- Me siga no Instagram victor_kapakapa
+
+## Um fato curioso sobre mim 😄
+
+Eu gosto de jogar e de memes. Acho que Elefante Morango, Indo ali e EU SABO MUITO

@@ -1,8 +1,7 @@
-# Olá, me chamo Víctor ! 
 ## Bem vindo ao meu perfil GitHub 👋
-## Hello, Devs!!
-# 👋 Hello! Welcome to my Github profile.
-## My name is Víctor and my nickname is "Baumilha"!**
+## Olá, me chamo Víctor e meu apelido é "Baumilha"!
+## 👋 Hello! Welcome to my Github profile.
+## My name is Víctor and my nickname is "Baumilha"!
 
 - 🌱 Atualmente estou aprendendo Lógica de Programação, JS, HTML e um pouco sobre viver
 - 👯 Estou procurando colaborar em projetos que eu consiga ajudar 

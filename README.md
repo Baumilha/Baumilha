@@ -8,6 +8,6 @@
 - 💬 Pergunte-me sobre Filmes/Animes/Séries/Desenhos/HQ e esses assuntos ai kk
 - 📫 Como entrar em contato comigo: instagram -> @victor_kapakapa
 - ⚡ Curiosidade: Eu estou no 1º ano do ensino médio 
-- **
+
 <div>
 <a href="https://instagram.com/victor_kapakapa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

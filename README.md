@@ -1,10 +1,10 @@
 # Olá, eu sou o Víctor 👋
 
-Sou um estudante de 15 anos que gosta de aprender coisas novas e de socializar. Sou engraçado e inteligente (eu acho 😅). Estou programando com HTML, JS, CSS e C por enquanto.
+Sou um estudante de 16 anos que gosta de aprender coisas novas e de socializar. Estou programando com HTML, JS, CSS, Python, PHP e Java por enquanto.
 
-## O que eu estou fazendo 🚀
+## O que eu estou fazendo atualmente🚀
 
-- Aprendendo sobre desenvolvimento web na Alura
+- Aprendendo sobre desenvolvimento web na Alura (ja foi btw)
 - Criando alguns projetos pessoais para praticar
 - Participando de comunidades online de programação
 
@@ -14,11 +14,10 @@ Sou um estudante de 15 anos que gosta de aprender coisas novas e de socializar. 
 - CSS
 - JavaScript
 - C
-
+- Python
+- PHP e Java (*Muito Pouco*)
 ## Como me encontrar 📫
 
-- Me siga no Instagram victor_kapakapa
+- Me siga no Instagram @victor_kapakapa
 
-## Um fato curioso sobre mim 😄
-
-Eu gosto de jogar e de memes. Acho que Elefante Morango, Indo ali e EU SABO MUITO
+Cringe (fui obrigado a fazer isso btw)
